@@ -67,28 +67,6 @@ I enjoy experimenting with microcontrollers, embedded systems, networking, and s
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=EyadAlKhadrawy&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EyadAlKhadrawy&layout=compact&theme=tokyonight&hide_border=true" height="170">
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/EyadAlKhadrawy/EyadAlKhadrawy/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 ## 📌 Featured Interests
 
 **ESP32** • **Embedded Systems** • **IoT** • **MicroPython** • **Python** • **C/C++** • **Networking** • **Game Development**
@@ -101,6 +79,7 @@ I enjoy experimenting with microcontrollers, embedded systems, networking, and s
 
 [![GitHub](https://img.shields.io/badge/GitHub-EyadAlKhadrawy-181717?style=for-the-badge&logo=github)](https://github.com/EyadAlKhadrawy)
 
+[![Gmail](https://img.shields.io/badge/GitHub-EyadAlKhadrawy-181717?style=for-the-badge&logo=github)](mailto:eyadhassanoody@gmail.com)
 </div>
 
 ---

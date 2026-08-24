@@ -77,10 +77,12 @@ I enjoy experimenting with microcontrollers, embedded systems, networking, and s
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-EyadAlKhadrawy-181717?style=for-the-badge&logo=github)](https://github.com/EyadAlKhadrawy)
+[![GitHub](https://img.shields.io/badge/GitHub-EyadAlKhadrawy-181717?style=for-the-badge\&logo=github)](https://github.com/EyadAlKhadrawy)
 
-[![Gmail](https://img.shields.io/badge/GitHub-EyadAlKhadrawy-181717?style=for-the-badge&logo=github)](mailto:eyadhassanoody@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-eyadhassanoody%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:eyadhassanoody@gmail.com)
+
 </div>
+
 
 ---
 
